@@ -1,0 +1,13 @@
+@font-face {
+font-family: harry;
+src: url("../fonts/harrypotter.TTF");
+}
+body {
+	background: url("../imgs/hogwarts.jpg") center center fixed;
+}
+.title {
+	color: white;
+	margin-top: 200px;
+	font-family: harry;
+	font-size: 100px;
+}
